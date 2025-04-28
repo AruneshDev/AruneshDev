@@ -98,9 +98,9 @@
     </td>
     <td>
       <a href="https://www.coursera.org/learn/aws-certified-ai-practitioner">
-        <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        <img src="https://i.postimg.cc/QtMBc8Wv/AWS-Certified-AI-Practitioner-badge-150x150-bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png">
       </a><br/>
-      Coursera, Completed 2025
+      AWS Certified 2025
     </td>
   </tr>
   <tr>
@@ -109,9 +109,9 @@
     </td>
     <td>
       <a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials">
-        <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+        <img src="https://i.postimg.cc/CxPpzwSR/AWS-Certified-Cloud-Practitioner-badge-150x150-17da917fbddc5383838d9f8209d2030c8d99f31e.png">
       </a><br/>
-      Coursera, Completed 2025
+      AWS Certified 2025
     </td>
   </tr>
   <tr>
