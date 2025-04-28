@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td width="100px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Meta_Platforms_Inc._logo.svg" width="80px">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/7/78/Meta_Platforms_Inc._logo.svg](https://i.postimg.cc/44YxCq4s/Meta.png)" width="80px">
     </td>
     <td>
       <a href="https://www.coursera.org/professional-certificates/meta-back-end-developer">
