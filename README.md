@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="100px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.png" width="80px">
+      <img src="https://i.postimg.cc/8zLCK0dw/GCP.png" width="80px">
     </td>
     <td>
       <a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">
