@@ -1,5 +1,9 @@
 # About Me:
-🛠 I’m currently working on:<br>Building scalable machine learning pipelines, quantitative finance models, and full-stack data applications.<br><br>🤝 I’m looking to collaborate on:<br>Data science projects, AI-driven financial tools, backend development, and open-source initiatives.<br><br>🌱 I’m currently learning:<br>Advanced machine learning, cloud engineering (AWS & GCP), and scalable systems design.<br><br>💬 Ask me about:<br>Data science, AI applications, trading models, portfolio optimization, and breaking into tech after grad school!<br><br>⚡ Fun fact:<br>I love solving logic puzzles, enjoy playing squash, and dream of building products that empower financial freedom.
+- I’m currently working on:<br>Building scalable machine learning pipelines, quantitative finance models, and full-stack data applications.<br><br>
+- I’m looking to collaborate on:<br>Data science projects, AI-driven financial tools, backend development, and open-source initiatives.<br><br>
+- I’m currently learning:<br>Advanced machine learning, cloud engineering (AWS & GCP), and scalable systems design.<br><br>
+- Ask me about:<br>Data science, AI applications, trading models, portfolio optimization, and breaking into tech after grad school!<br><br>
+- Fun fact:<br>I love solving logic puzzles, enjoy playing squash, and dream of building products that empower financial freedom.
 # 🎓 Education
 
 <table>
