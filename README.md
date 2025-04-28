@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="100px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Boston_University_seal.svg/1200px-Boston_University_seal.svg.png" width="90px">
+      <img src="https://i.postimg.cc/9MF7pYvx/BU.png" width="90px">
     </td>
     <td>
       <b>Boston University, Graduate School of Arts & Sciences (GRS)</b><br/>
