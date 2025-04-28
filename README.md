@@ -27,6 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Netflix-Dashboard-User-Subscription-and-Revenue&theme=dark" />
 </a>
 ## 🌐 Recent Certifications:
+
   [![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
   [![Finance & Quantitative Modeling](https://img.shields.io/badge/Finance%20%26%20Quantitative%20Modeling-003366?style=for-the-badge&logo=university-of-pennsylvania&logoColor=white)](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts)
   [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
