@@ -26,14 +26,16 @@
 <a href="https://github.com/AruneshDev/Netflix-Dashboard-User-Subscription-and-Revenue">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Netflix-Dashboard-User-Subscription-and-Revenue&theme=dark" />
 </a>
-## 🌐 Recent Certifications:
 
-  [![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
-  [![Finance & Quantitative Modeling](https://img.shields.io/badge/Finance%20%26%20Quantitative%20Modeling-003366?style=for-the-badge&logo=university-of-pennsylvania&logoColor=white)](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts)
-  [![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
-  [![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-analyst)
-  [![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.coursera.org/learn/aws-certified-ai-practitioner)
-  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)
+# 🎓 Recent Courses
+
+[![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
+[![Finance & Quantitative Modeling](https://img.shields.io/badge/Finance%20%26%20Quantitative%20Modeling-003366?style=for-the-badge&logo=university-of-pennsylvania&logoColor=white)](https://www.coursera.org/specializations/finance-quantitative-modeling-analysts)
+[![IBM Data Science](https://img.shields.io/badge/IBM%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-science)
+[![IBM Data Analyst](https://img.shields.io/badge/IBM%20Data%20Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.coursera.org/learn/aws-certified-ai-practitioner)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)
+[![GCP From Data to Insights](https://img.shields.io/badge/GCP%20Data%20Insights-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform)
 
 
 ## 🌐 Socials:
