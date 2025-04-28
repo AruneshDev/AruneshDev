@@ -41,6 +41,79 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Netflix-Dashboard-User-Subscription-and-Revenue&theme=dark" />
 </a>
 
+<table>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Meta_Platforms_Inc._logo.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/professional-certificates/meta-back-end-developer">Meta Back-End Developer Professional Certificate</a></b><br/>
+      ![Meta Badge](https://img.shields.io/badge/Meta%20Back--End%20Developer-0064E0?style=for-the-badge&logo=meta&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/University_of_Pennsylvania_shield.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/specializations/finance-quantitative-modeling-analysts">Finance & Quantitative Modeling for Analysts Specialization</a></b><br/>
+      ![Finance Badge](https://img.shields.io/badge/Finance%20%26%20Quantitative%20Modeling-003366?style=for-the-badge&logo=university-of-pennsylvania&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a></b><br/>
+      ![IBM Data Science Badge](https://img.shields.io/badge/IBM%20Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">IBM Data Analyst Professional Certificate</a></b><br/>
+      ![IBM Data Analyst Badge](https://img.shields.io/badge/IBM%20Data%20Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/learn/aws-certified-ai-practitioner">AWS AI Practitioner Course</a></b><br/>
+      ![AWS AI Badge](https://img.shields.io/badge/AWS%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials">AWS Cloud Practitioner Essentials</a></b><br/>
+      ![AWS Cloud Badge](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+  <tr>
+    <td width="100px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Cloud_logo.png" width="80px">
+    </td>
+    <td>
+      <b><a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">From Data to Insights with GCP Specialization</a></b><br/>
+      ![GCP Data Insights Badge](https://img.shields.io/badge/GCP%20Data%20Insights-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)<br/>
+      Coursera, Completed 2025
+    </td>
+  </tr>
+</table>
+
 # 🎓 Recent Courses
 
 [![Meta Back-End Developer](https://img.shields.io/badge/Meta%20Back--End%20Developer-0064E0?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
