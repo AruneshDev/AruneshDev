@@ -15,10 +15,30 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AruneshDev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AruneshDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📌 Pinned Repositories
+### 📌 Pinned Repositories
 
----
-[![](https://visitcount.itsvg.in/api?id=AruneshDev&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/AruneshDev/Deep-Learning-Approach-to-IMO-Problem-Solving-in-AIMO-Competition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Deep-Learning-Approach-to-IMO-Problem-Solving-in-AIMO-Competition&theme=dark" />
+</a>
 
+<a href="https://github.com/AruneshDev/Epidemic-Engine-Data-Engineering-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Epidemic-Engine-Data-Engineering-Project&theme=dark" />
+</a>
+
+<a href="https://github.com/AruneshDev/Automated-Trading-System-Kalshi-Weather-Model">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Automated-Trading-System-Kalshi-Weather-Model&theme=dark" />
+</a>
+
+<a href="https://github.com/AruneshDev/quant-portfolio-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=quant-portfolio-dashboard&theme=dark" />
+</a>
+
+<a href="https://github.com/AruneshDev/Cloud-Access-Monitoring-Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Cloud-Access-Monitoring-Dashboard&theme=dark" />
+</a>
+
+<a href="https://github.com/AruneshDev/Netflix-Dashboard-User-Subscription-and-Revenue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AruneshDev&repo=Netflix-Dashboard-User-Subscription-and-Revenue&theme=dark" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
