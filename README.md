@@ -24,6 +24,16 @@
     </td>
   </tr>
 </table>
+📚 Relevant Coursework (Boston University, M.S. Computer Science)
+
+- Object-Oriented Software Principles in Java (GRS CS 611)
+- Graduate Algorithms (GRS CS 630)
+- Graduate Databases (GRS CS 660)
+- Tools for Data Science (CAS CS 506)
+- Machine Learning (CAS CS 542)
+- Data Engineering at Scale (CDS DS 593)
+- Deep Learning (CAS CS 523S)
+- Computer Networks (CAS CS 655)
 
 ### 📌 Pinned Repositories
 
