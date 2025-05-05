@@ -113,7 +113,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80px">
     </td>
     <td>
-      <a href="https://www.coursera.org/learn/aws-certified-ai-practitioner">
+      <a href="https://www.credly.com/badges/8f79d451-e980-4c22-9540-c135555b862f/public_url">
         <img src="https://i.postimg.cc/QtMBc8Wv/AWS-Certified-AI-Practitioner-badge-150x150-bb2bb1cae960f5ee8b93d3e2ccc9dd64bff29180.png">
       </a><br/>
       AWS Certified 2025
@@ -124,7 +124,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="80px">
     </td>
     <td>
-      <a href="https://www.coursera.org/learn/aws-cloud-practitioner-essentials">
+      <a href="https://www.credly.com/badges/ae88bc50-0004-4c77-a3fa-da945d5a922a/public_url">
         <img src="https://i.postimg.cc/CxPpzwSR/AWS-Certified-Cloud-Practitioner-badge-150x150-17da917fbddc5383838d9f8209d2030c8d99f31e.png">
       </a><br/>
       AWS Certified 2025
