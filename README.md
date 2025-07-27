@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunesh-kumar-lal) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aklal@bu.edu) 
-[![Resume](https://img.shields.io/badge/Resume-%2300C4CC.svg?logo=read-the-docs&logoColor=white)](https://www.datascienceportfol.io/static/pdf_uploads/cvs/Data_Science_Resume_Arunesh_Kumar_Lal.pdf)
+[![Resume](https://img.shields.io/badge/Resume-%2300C4CC.svg?logo=read-the-docs&logoColor=white)](https://www.datascienceportfol.io/static/pdf_uploads/cvs/Arunesh_Kumar_Lal_Data_Scientist.pdf)
 
 # 🎓 Education
 
